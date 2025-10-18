@@ -32,6 +32,7 @@
 🌐 Deployment URL
 
 🔗 https://fanciful-cranachan-69751e.netlify.app/
+![image](https://github.com/Sumnatkumar/authify/blob/main/HomePage.png)
 
 🏷️ Tags / Hashtags
 
